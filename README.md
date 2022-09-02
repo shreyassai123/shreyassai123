@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on AI/ML
 - 📫 How to reach me shreyassai2@gmail.com
-- 💻 Check out my website: shreyassai.com
+- 💻 Check out my website: [shreyassai.com](shreyassai.com)
 
 <!---
 shreyassai123/shreyassai123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
