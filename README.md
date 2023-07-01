@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @shreyassai123
-- 👀 I’m interested in App Development, AI/ML and Blockchain
+- 👀 I’m interested in AI/ML and Blockchain
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on AI/ML
 - 📫 How to reach me shreyassai2@gmail.com
